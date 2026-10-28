@@ -4,7 +4,7 @@ nao_tocando: .asciiz "Alarme não está tocando"
 valorA: .asciiz "Digite o valor para A(a porta está aberta ?(0 ou 1)):"
 valorB: .asciiz "Digite o valor para B(foi detectado movimento ?(0 ou 1)):"
 valorC: .asciiz "Digite o valor para C(o alarme está ativo ?(0 ou 1)):"
-invalido: .asciiz "Valor invalido digitado, tente novamente"
+invalido: .asciiz "Valor invalido digitado, tente novamente\n"
 
 .text
 
